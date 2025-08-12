@@ -1,0 +1,8 @@
+N4 ROCKET PERFORMANCE SUMMARY
+==================================================
+Analysis Date: 2025-08-10 17:39:21
+Data Source: telemetry_20250808_142822.csv
+
+Maximum Altitude: 13.60 m
+Time to Apogee: 6979.37 s
+Maximum Velocity: 13.87 m/s

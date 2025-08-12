@@ -1,0 +1,4 @@
+Signal Comparison Summary
+============================================================
+wifi_rssi: mean telemetry_20250807_171047=-75.0 dBm, telemetry_20250808_142822=-64.4 dBm
+wifi_rssi: slope telemetry_20250807_171047=1.82 dB/min, telemetry_20250808_142822=-0.17 dB/min

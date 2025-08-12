@@ -1,0 +1,4 @@
+kalman_vertical_velocity vs velocity
+Correlation: N/A
+Residual mean: 0.080
+Residual std: 0.000

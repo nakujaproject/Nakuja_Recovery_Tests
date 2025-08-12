@@ -1,0 +1,79 @@
+N4 ROCKET FLIGHT ANALYSIS REPORT
+==================================================
+Generated: 2025-08-10 19:35:25
+Data File: telemetry_20250807_165535.csv
+
+
+============================================================
+BASIC STATISTICS
+============================================================
+Flight Duration: 664.5 seconds (11.1 minutes)
+Total Records: 741
+Max AGL Altitude: 120.00
+Max GPS Altitude: 120.00
+Max Kalman Altitude: 120.04
+Max Velocity: 0.00
+Max Kalman Velocity: 163.36
+Min Battery Voltage: 0.00
+Max Temperature: 25.00
+
+Flight States:
+   4: 461 records (62.2%)
+   0: 107 records (14.4%)
+   2: 96 records (13.0%)
+   1: 44 records (5.9%)
+   3: 32 records (4.3%)
+   171: 1 records (0.1%)
+
+============================================================
+FLIGHT PHASE ANALYSIS
+============================================================
+
+Pre-Flight:
+   Duration: 107 records
+   Altitude Range: 0.0m - 120.0m
+   Velocity Range: 0.0 - 0.0 m/s
+
+Apogee:
+   Duration: 44 records
+   Altitude Range: 34.0m - 98.0m
+   Velocity Range: 0.0 - 0.0 m/s
+
+============================================================
+SENSOR HEALTH CHECK
+============================================================
+
+Altitude Sensors:
+   OK agl_altitude: 100.0% valid, 0.5% zeros
+   OK gps_altitude: 99.9% valid, 12.6% zeros
+   OK kalman_altitude: 100.0% valid, 1.2% zeros
+
+Velocity Sensors:
+   OK velocity: 100.0% valid, 100.0% zeros
+   OK kalman_vertical_velocity: 100.0% valid, 0.5% zeros
+
+Accelerometer:
+   MISSING acceleration_x
+   MISSING acceleration_y
+   MISSING acceleration_z
+
+Gyroscope:
+   MISSING gyro_x
+   MISSING gyro_y
+   MISSING gyro_z
+
+Magnetometer:
+   MISSING mag_x
+   MISSING mag_y
+   MISSING mag_z
+
+Environmental:
+   OK pressure: 100.0% valid, 0.0% zeros
+   OK temperature: 100.0% valid, 0.0% zeros
+
+Power:
+   OK battery_voltage: 100.0% valid, 99.9% zeros
+
+Communication:
+   OK wifi_rssi: 100.0% valid, 0.0% zeros
+   MISSING lora_rssi

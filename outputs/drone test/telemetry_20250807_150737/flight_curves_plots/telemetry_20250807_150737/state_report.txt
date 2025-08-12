@@ -1,0 +1,11 @@
+Flight State Change Report
+============================================================
+State durations (approx):
+- 0: 6920 samples, ~814.1s
+- 2: 1 samples, ~0.1s
+
+Detected key events:
+- Launch:  t=625.06s, ts=2025-08-07 15:19:37.889249
+- Powered end: N/A
+- Apogee:  t=625.06s, ts=2025-08-07 15:19:37.889249
+- Landing: t=698.00s, ts=2025-08-07 15:20:50.828366

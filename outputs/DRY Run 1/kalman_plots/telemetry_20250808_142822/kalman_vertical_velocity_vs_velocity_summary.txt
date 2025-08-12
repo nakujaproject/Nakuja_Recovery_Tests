@@ -1,0 +1,4 @@
+kalman_vertical_velocity vs velocity
+Correlation: nan
+Residual mean: -84.158
+Residual std: 118.821

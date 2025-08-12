@@ -1,0 +1,14 @@
+Signal Analysis Report for telemetry_20250807_154506.csv
+============================================================
+wifi_rssi: slope=-0.62 dB/min, R^2=0.036
+wifi_rssi: sharp drops (>=8 dB/5s) count=27
+  - t=14.3s, drop≈18.0 dB
+  - t=22.5s, drop≈9.0 dB
+  - t=34.4s, drop≈21.0 dB
+  - t=51.8s, drop≈26.0 dB
+  - t=82.3s, drop≈11.0 dB
+  - t=96.6s, drop≈16.0 dB
+  - t=115.9s, drop≈19.0 dB
+  - t=129.3s, drop≈13.0 dB
+  - t=142.0s, drop≈8.0 dB
+  - t=175.7s, drop≈15.0 dB

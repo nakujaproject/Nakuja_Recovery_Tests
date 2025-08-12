@@ -1,0 +1,44 @@
+Deployment Report: telemetry_20250807_165535.csv
+======================================================================
+Generated: 2025-08-12 21:12:43
+Records: 741
+Altitude column used for apogee: kalman_altitude
+Apogee index: 110, time: 101.62s
+Apogee altitude: 120.04
+Heuristic numeric state inference was used (verify manually).
+Drogue Deployment: index=181, t=284.05s
+  Altitude (kalman_altitude): 1.01
+  State: 0
+  Temperature: 25.0
+  Full snapshot:
+    index: 181
+    t_s: 284.046
+    timestamp: 2025-08-07 17:00:29.008253
+    kalman_altitude: 1.010
+    agl_altitude: 1.000
+    gps_altitude: 0.000
+    velocity: 0.000
+    kalman_vertical_velocity: -9.170
+    temperature: 25.000
+    pressure: 101313.000
+    battery_voltage: 0.000
+    wifi_rssi: -90
+    state: 0
+Main Deployment: index=190, t=287.58s
+  Altitude (kalman_altitude): 47.97
+  State: 1
+  Temperature: 25.0
+  Full snapshot:
+    index: 190
+    t_s: 287.580
+    timestamp: 2025-08-07 17:00:32.541994
+    kalman_altitude: 47.970
+    agl_altitude: 48.000
+    gps_altitude: 12.000
+    velocity: 0.000
+    kalman_vertical_velocity: -0.040
+    temperature: 25.000
+    pressure: 100750.000
+    battery_voltage: 0.000
+    wifi_rssi: -89
+    state: 1

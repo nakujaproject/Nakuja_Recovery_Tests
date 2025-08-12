@@ -1,0 +1,10 @@
+Deployment Report: telemetry_20250807_153314.csv
+======================================================================
+Generated: 2025-08-12 21:12:43
+Records: 170
+Altitude column used for apogee: kalman_altitude
+Apogee index: 5, time: 0.55s
+Apogee altitude: 4.29
+Heuristic numeric state inference was used (verify manually).
+Drogue Deployment: NOT DETECTED
+Main Deployment: NOT DETECTED

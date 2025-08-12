@@ -1,0 +1,70 @@
+N4 ROCKET FLIGHT ANALYSIS REPORT
+==================================================
+Generated: 2025-08-10 19:34:50
+Data File: telemetry_20250807_150737.csv
+
+
+============================================================
+BASIC STATISTICS
+============================================================
+Flight Duration: 1155.0 seconds (19.3 minutes)
+Total Records: 6921
+Max AGL Altitude: 2229.84
+Max GPS Altitude: 1557.00
+Max Kalman Altitude: 2227.90
+Max Velocity: 0.00
+Max Kalman Velocity: 172.39
+Min Battery Voltage: 0.00
+Max Temperature: 231.77
+
+Flight States:
+   0: 6920 records (100.0%)
+   2: 1 records (0.0%)
+
+============================================================
+FLIGHT PHASE ANALYSIS
+============================================================
+
+Pre-Flight:
+   Duration: 6920 records
+   Altitude Range: -3274.3m - 2229.8m
+   Velocity Range: 0.0 - 0.0 m/s
+
+============================================================
+SENSOR HEALTH CHECK
+============================================================
+
+Altitude Sensors:
+   OK agl_altitude: 100.0% valid, 0.1% zeros
+   OK gps_altitude: 100.0% valid, 7.8% zeros
+   OK kalman_altitude: 100.0% valid, 1.1% zeros
+
+Velocity Sensors:
+   OK velocity: 100.0% valid, 100.0% zeros
+   OK kalman_vertical_velocity: 100.0% valid, 0.6% zeros
+
+Accelerometer:
+   MISSING acceleration_x
+   MISSING acceleration_y
+   MISSING acceleration_z
+
+Gyroscope:
+   MISSING gyro_x
+   MISSING gyro_y
+   MISSING gyro_z
+
+Magnetometer:
+   MISSING mag_x
+   MISSING mag_y
+   MISSING mag_z
+
+Environmental:
+   OK pressure: 100.0% valid, 0.1% zeros
+   OK temperature: 100.0% valid, 0.1% zeros
+
+Power:
+   OK battery_voltage: 100.0% valid, 100.0% zeros
+
+Communication:
+   OK wifi_rssi: 100.0% valid, 0.0% zeros
+   MISSING lora_rssi

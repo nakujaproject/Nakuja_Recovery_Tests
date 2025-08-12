@@ -1,0 +1,11 @@
+Flight Segment Isolation Report
+============================================================
+telemetry_20250807_154506.csv seg1: peak=94.2m dur=105.9s ascent=1.73m/s descent=1.67m/s
+telemetry_20250807_154506.csv seg2: peak=99.0m dur=100.7s ascent=1.69m/s descent=2.12m/s
+telemetry_20250807_165535.csv seg1: peak=120.0m dur=21.3s ascent=15.50m/s descent=8.63m/s
+telemetry_20250807_165535.csv seg2: peak=120.0m dur=20.6s ascent=13.73m/s descent=9.90m/s
+telemetry_20250807_165535.csv seg3: peak=120.0m dur=20.6s ascent=18.02m/s descent=8.55m/s
+telemetry_20250807_165535.csv seg4: peak=120.0m dur=21.7s ascent=16.90m/s descent=8.14m/s
+telemetry_20250807_165535.csv seg5: peak=120.0m dur=21.1s ascent=15.62m/s descent=8.84m/s
+telemetry_20250807_165535.csv seg6: peak=120.0m dur=263.3s ascent=11.34m/s descent=0.13m/s
+telemetry_20250807_171047.csv seg1: peak=100.9m dur=111.3s ascent=2.41m/s descent=1.37m/s

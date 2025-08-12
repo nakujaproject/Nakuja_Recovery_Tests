@@ -1,0 +1,4 @@
+kalman_altitude vs agl_altitude
+Correlation: N/A
+Residual mean: 0.380
+Residual std: 0.000

@@ -1,0 +1,80 @@
+N4 ROCKET FLIGHT ANALYSIS REPORT
+==================================================
+Generated: 2025-08-10 19:35:34
+Data File: telemetry_20250807_171047.csv
+
+
+============================================================
+BASIC STATISTICS
+============================================================
+Flight Duration: 679.5 seconds (11.3 minutes)
+Total Records: 1995
+Max AGL Altitude: 100.95
+Max GPS Altitude: 1555.80
+Max Kalman Altitude: 100.91
+Max Velocity: 0.00
+Max Kalman Velocity: 30.61
+Min Battery Voltage: 0.00
+Max Temperature: 231.77
+
+Flight States:
+   0: 927 records (46.5%)
+   8: 527 records (26.4%)
+   7: 222 records (11.1%)
+   2: 218 records (10.9%)
+   1: 86 records (4.3%)
+   3: 13 records (0.7%)
+   4: 2 records (0.1%)
+
+============================================================
+FLIGHT PHASE ANALYSIS
+============================================================
+
+Pre-Flight:
+   Duration: 927 records
+   Altitude Range: -3420.9m - 12.5m
+   Velocity Range: 0.0 - 0.0 m/s
+
+Apogee:
+   Duration: 86 records
+   Altitude Range: 12.6m - 33.4m
+   Velocity Range: 0.0 - 0.0 m/s
+
+============================================================
+SENSOR HEALTH CHECK
+============================================================
+
+Altitude Sensors:
+   OK agl_altitude: 99.9% valid, 0.4% zeros
+   OK gps_altitude: 99.9% valid, 67.6% zeros
+   OK kalman_altitude: 99.9% valid, 1.3% zeros
+
+Velocity Sensors:
+   OK velocity: 99.9% valid, 99.9% zeros
+   OK kalman_vertical_velocity: 99.9% valid, 0.7% zeros
+
+Accelerometer:
+   MISSING acceleration_x
+   MISSING acceleration_y
+   MISSING acceleration_z
+
+Gyroscope:
+   MISSING gyro_x
+   MISSING gyro_y
+   MISSING gyro_z
+
+Magnetometer:
+   MISSING mag_x
+   MISSING mag_y
+   MISSING mag_z
+
+Environmental:
+   OK pressure: 99.9% valid, 0.1% zeros
+   OK temperature: 99.9% valid, 0.1% zeros
+
+Power:
+   OK battery_voltage: 100.0% valid, 100.0% zeros
+
+Communication:
+   OK wifi_rssi: 100.0% valid, 0.0% zeros
+   MISSING lora_rssi
