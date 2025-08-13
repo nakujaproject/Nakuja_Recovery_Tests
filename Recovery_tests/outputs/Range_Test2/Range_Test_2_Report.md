@@ -26,7 +26,7 @@
 - ESP antenna disconnected from amplifier during test.
 - No multimeter available for troubleshooting.
 - Serial cable kept disconnecting, causing intermittent data loss.
-
+! [broken paths](20250813_192455.jpg) 
 ---
 
 
@@ -38,7 +38,7 @@
   - Amplifier not powered up.
 - Possible software issues:
   - Large data packets (~150 bytes).
-  - MQTT setup/configuration.
+  - Beacon setup/configuration.
 
 ---
 
@@ -50,7 +50,7 @@
 ---
 ## Conclusion
 Base station Amplifier was likely not powered, as seen from RSSI values (should be -20 to -70 at close range). Team should have detected this before departing. A multimeter test should be part of pre-test procedure.
-
+![Base Station ](20250813_192455.jpg)
 ---
 
 ## Recommendations
