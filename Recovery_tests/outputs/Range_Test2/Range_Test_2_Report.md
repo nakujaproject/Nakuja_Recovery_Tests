@@ -46,7 +46,10 @@
 ## Hardware/Design Notes
 - Circuit inspection revealed slightly broken traces on the base station PCB; etching procedure or design needs rethinking. Use larger traces.
 - Consider using perforated boards for future builds.
-- Conclusion: Amplifier was likely not powered, as seen from RSSI values (should be -20 to -70 at close range). Team should have detected this before departing. A multimeter test should be part of pre-test procedure.
+
+---
+## Conclusion
+Amplifier was likely not powered, as seen from RSSI values (should be -20 to -70 at close range). Team should have detected this before departing. A multimeter test should be part of pre-test procedure.
 
 ---
 
