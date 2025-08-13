@@ -50,7 +50,7 @@
 
 ## Recommendations
 - Redraft and strictly follow test procedures to avoid wasted prep time.
-- For cable issues: Consider switching from serial cable to Bluetooth, or use ESP-01 to receive beacon data and transmit wirelessly to the laptop.
+- For cable issues: Consider switching from serial cable to Bluetooth, or use ESP-01 to receive data via UART and transmit wirelessly to the laptop.
 
 ---
 
