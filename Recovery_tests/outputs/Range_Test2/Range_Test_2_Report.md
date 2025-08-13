@@ -12,9 +12,10 @@
 - Clean data stream throughout the test.
 - Successful ARM and DISARM operations.
 - Location data acquired and logged.
-- Range Test 2 errors from previous runs were fixed:
+- Range Test 1 errors from previous run1 were fixed:
   - Laptop lagging resolved.
   - ESP no longer stops streaming after reset.
+- Data Was logged to SD Card. 
 
 ---
 
