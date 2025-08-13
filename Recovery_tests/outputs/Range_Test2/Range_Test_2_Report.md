@@ -29,6 +29,18 @@
 
 ---
 
+## Data Analysis: RSSI Decay and GPS Path
+
+**RSSI Decay Plot:**
+![RSSI Decay](Range_Test_2_RSSI.png)
+
+**GPS Path Plot:**
+![GPS Path](Range_Test_2_GPS.png)
+
+*Interpretation: RSSI values decayed as distance increased, with notable drops at points of hardware/cable issues. GPS path shows the movement during the test, confirming location data was logged.*
+
+---
+
 ## Probable Causes of Limited Distance
 - Physical obstacles along the test path (cars, lorries, motorbikes).
 - No way to verify if base station amplifier was working at 100%.
@@ -40,6 +52,7 @@
   - MQTT setup/configuration.
 
 ---
+
 
 ## Hardware/Design Notes
 - Circuit inspection revealed slightly broken traces on the base station PCB; etching procedure or design needs rethinking. Use larger traces.
@@ -97,18 +110,6 @@
 
 **Operational Notes:**
 - "Invalid interface 1" or LoadProhibited: Ensure AP is started before esp_now_init and beacon TX; avoid double-initialization.
-
----
-
-## Data Analysis: RSSI Decay and GPS Path
-
-**RSSI Decay Plot:**
-![RSSI Decay](Range_Test_2_RSSI.png)
-
-**GPS Path Plot:**
-![GPS Path](Range_Test_2_GPS.png)
-
-*Interpretation: RSSI values decayed as distance increased, with notable drops at points of hardware/cable issues. GPS path shows the movement during the test, confirming location data was logged.*
 
 ---
 
