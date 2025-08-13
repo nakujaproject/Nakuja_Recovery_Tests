@@ -29,17 +29,6 @@
 
 ---
 
-## Data Analysis: RSSI Decay and GPS Path
-
-**RSSI Decay Plot:**
-![RSSI Decay](Range_Test_2_RSSI.png)
-
-**GPS Path Plot:**
-![GPS Path](Range_Test_2_GPS.png)
-
-*Interpretation: RSSI values decayed as distance increased, with notable drops at points of hardware/cable issues. GPS path shows the movement during the test, confirming location data was logged.*
-
----
 
 ## Probable Causes of Limited Distance
 - Physical obstacles along the test path (cars, lorries, motorbikes).
@@ -66,7 +55,17 @@
 - For cable issues: Consider switching from serial cable to Bluetooth, or use ESP-01 to receive data via UART and transmit wirelessly to the laptop.
 
 ---
+## Data Analysis: RSSI Decay and GPS Path
 
+**RSSI Decay Plot:**
+![RSSI Decay](Range_Test_2_RSSI.png)
+
+**GPS Path Plot:**
+![GPS Path](Range_Test_2_GPS.png)
+
+*Interpretation: RSSI values decayed as distance increased, with notable drops at points of hardware/cable issues. GPS path shows the movement during the test, confirming location data was logged.*
+
+---
 ## Technical Appendix: Beacon + ESP-NOW Telemetry Link
 
 **Overview:**
